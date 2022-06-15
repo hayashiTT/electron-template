@@ -2,16 +2,16 @@
 
 Electronプロジェクト作成時のテンプレート
 
-# コマンド
-## パッケージのインストール
+## コマンド
+### パッケージのインストール
 ```bash
 npm install
 ```
-## 実行
+### 実行
 ```bash
 npm run start
 ```
-## ビルド
+### ビルド
 ```bash
 npm run build-windows
 ```
